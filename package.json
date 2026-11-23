@@ -1,0 +1,7 @@
+{
+  "name": "en-spartamax",
+  "private": true,
+  "description": "Static Spartamax information site (Vercel).",
+  "scripts": { "indexnow": "node scripts/indexnow.mjs", "indexnow:all": "node scripts/indexnow.mjs --all" },
+  "engines": { "node": ">=18" }
+}
